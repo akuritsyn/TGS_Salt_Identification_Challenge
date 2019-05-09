@@ -1,5 +1,9 @@
-## Placeholder for [Kaggle TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge) 
+# [Kaggle TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge) 
 
-The code will be posted shortly after the competition ends on October 20, 2018.
+### Segment salt deposits beneath the Earth's surface
 
-*** In progress ***
+### Top 12% solution
+
+### U-Net CNN with ResNet backbone in Keras and Tensorflow
+- Uses binary cross-entropy loss and then Lovasz loss
+- 5-fold cross-validaton and image augmentation
